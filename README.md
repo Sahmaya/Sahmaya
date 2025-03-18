@@ -3,10 +3,10 @@
 <h2> Software Development Projects:</h2>
 
 - <b>C++ Programming Project</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - https://github.com/Sahmaya/C-Program-/blob/main/README.md
     
 - <b>Simulated Machine Learning Project</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - https://github.com/Sahmaya/Machine-Learning-Program/blob/main/README.md
   
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
