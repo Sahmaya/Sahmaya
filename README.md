@@ -3,10 +3,10 @@
 <h2> Software Development Projects:</h2>
 
 - <b>C++ Programming Project</b>
-  - https://github.com/Sahmaya/C-Program-/blob/main/README.md
+  - https://github.com/Sahmaya/C-Program
     
 - <b>Simulated Machine Learning Project</b>
-  - https://github.com/Sahmaya/Machine-Learning-Program/blob/main/README.md
+  - https://github.com/Sahmaya/Machine-Learning-Program
   
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
