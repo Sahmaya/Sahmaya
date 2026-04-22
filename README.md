@@ -1,13 +1,37 @@
-<h1>Hi, I'm Sahmaya! 
+Hi, I'm Sahmaya 👋
+Final-year Computer Science and Finance student based in Costa Rica, building in C++, Python and SQL.
+My background sits across software engineering, financial markets and operations. I traded ES and NQ futures full time before redirecting that analytical focus into a technical career — combining the problem-solving instincts from trading with software engineering and finance.
+Currently finishing a Bachelor of Information Sciences majoring in Computer Science with a Finance minor at Massey University (June 2026), while working as Operations Manager at a remote B2B agency.
 
-<h2> Software Development Projects:</h2>
+Projects
+🖥️ FTP Server — C++, IPv6, RFC 959 / RFC 2428
+Standards-compliant FTP server built from RFC specification. Handles authentication, IPv6 active mode data connections, directory listing and binary file transfer. Full IPv6 upgrade from IPv4-only codebase. Cross-platform Windows and Unix build.
+🌐 FastAPI Psychological Profiling App — Python, FastAPI, Docker
+Full-stack web application acting as both server and external API client. HTTP Basic Auth, async third-party API integration (OMDB, animal image APIs), Big Five personality analysis and Docker containerised deployment.
+🔤 C++ String Interpreter — C++, Lexer, Recursive Descent Parser
+Complete language interpreter built from scratch. Regex-based lexer, recursive descent parser, execution engine with symbol table and error recovery. Implements a full string-processing language with concatenation, reversal, word counting and more.
+🖼️ Image Analysis Program — C++, Computer Vision
+Processes images to identify and classify damaged versus undamaged buttons, overlaying colour-coded visual markers. Demonstrates low-level image manipulation and classification logic in C++.
+🧠 Haskell Date Adjuster — Haskell, Functional Programming
+Pure functional date adjustment function handling month rollovers, year boundaries and leap year logic. Built without any imported modules. Scored 20/20.
 
-- <b>C++ Programming Project</b>
-  - https://github.com/Sahmaya/C-Program
-    
-- <b>Simulated Machine Learning Project (C++) </b>
-  - https://github.com/Sahmaya/Machine-Learning-Program
-  
-- <b>C Sparve Vector and Linked List Addition Project</b>
-  - https://github.com/Sahmaya/C-Sparse-Vector-Addition- 
+Technical Skills
+Languages:   C++  |  Java  |  Python  |  JavaScript  |  SQL  |  Haskell  |  R
+Backend:     FastAPI  |  REST APIs  |  Docker
+Databases:   Oracle SQL  |  PL/SQL  |  MongoDB  |  MySQL
+Tools:       Git/GitHub  |  Unix/Linux  |  RStudio  |  n8n
+
+Background
+
+🎓 Bachelor of Information Sciences — CS Major, Finance Minor @ Massey University (Jun 2026)
+📈 Active ES/NQ futures trader
+🌊 Based in Santa Teresa, Costa Rica
+💼 Operations Manager at MS Marketing (remote)
+🌎 Available for remote roles — US, AUS, NZ timezones
+
+
+Connect
+
+LinkedIn: linkedin.com/in/sahmaya
+Email: sahmayalily@gmail.com
 
