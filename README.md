@@ -24,7 +24,7 @@ Complete language interpreter built from scratch. Regex-based lexer, recursive d
 Processes images to identify and classify damaged versus undamaged buttons, overlaying colour-coded visual markers. Demonstrates low-level image manipulation and classification logic in C++.
  
 ### 🧠 [Haskell Date Adjuster](https://github.com/Sahmaya/haskell-date-adjuster) | Haskell, Functional Programming
-Pure functional date adjustment function handling month rollovers, year boundaries and leap year logic. Built without any imported modules. Scored 20/20.
+Pure functional date adjustment function handling month rollovers, year boundaries and leap year logic. Built without any imported modules. 
  
 ## Technical Skills
  
